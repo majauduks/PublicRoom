@@ -8,5 +8,10 @@ namespace PublicRoom
 {
     internal class Pako
     {
+        public void Test()
+        {
+
+        }
+
     }
 }
